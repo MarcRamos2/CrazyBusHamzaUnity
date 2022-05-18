@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352196159774",
+    "firebase_url": "https://final-project-406f7-default-rtdb.firebaseio.com",
+    "project_id": "final-project-406f7",
+    "storage_bucket": "final-project-406f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352196159774:android:191880cd491d86ef38810f",
+        "android_client_info": {
+          "package_name": "com.HaMar.CrazyDriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352196159774-d52l815eaqiqvan43po01fe6tj4h9tfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxNwt-oaJESLew7PNhjkqBT9CzMAOXA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352196159774-d52l815eaqiqvan43po01fe6tj4h9tfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
